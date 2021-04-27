@@ -73,6 +73,7 @@ section {
 
 form {
   /* Center the form on the page */
+  text-align: center;
   margin: 0 auto;
   width: 500px;
   padding: 10px;
@@ -112,3 +113,10 @@ button {
 .text-right {
   text-align: right;
 }
+
+.wrapper {
+  text-align: center;
+}
+.sendstyle {
+
+} 
